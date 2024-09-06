@@ -54,37 +54,61 @@ header-includes:
 
 # Ход выполнения лабораторной работы
 
-## Установка и конфигурация операционной системы на виртуальную машину
+# Установка и конфигурация операционной системы на виртуальную машину
 
-### Virtual Box
+## Virtual Box
 
 ![(рис. 1. Общие настройки)](image/image1.png){ #fig:001 width=70% height=70% }
 
+## Virtual Box
+
 ![(рис. 2. Имя и путь  ОС)](image/image2.png){ #fig:002 width=70% height=70% }
+
+## Virtual Box
 
 ![(рис. 3. Размер пямяти и число процессоров)](image/image3.png){ #fig:003 width=70% height=70% }
 
+## Virtual Box
+
 ![(рис. 4. Виртуальный жесткий диск)](image/image4.png){ #fig:004 width=70% height=70% }
+
+## Virtual Box
 
 ![(рис. 5. Итог настроек)](image/image5.png){ #fig:005 width=70% height=70% }
 
+## Virtual Box
+
 ![(рис. 6. Носители)](image/image6.png){ #fig:006 width=70% height=70% }
+
+## Virtual Box
 
 ![(рис. 7. Стартовое меню установки)](image/image7.png){ #fig:007 width=70% height=70% }
 
+## Virtual Box
+
 ![(рис. 8. Server with GUI)](image/image8.png){ #fig:008 width=70% height=70% }
+
+## Virtual Box
 
 ![(рис. 9. Enable KDUMP)](image/image9.png){ #fig:009 width=70% height=70% }
 
+## Virtual Box
+
 ![(рис. 10. Root password)](image/image10.png){ #fig:010 width=70% height=70% }
+
+## Virtual Box
 
 ![(рис. 11. Итоговое меню установки)](image/image11.png){ #fig:011 width=70% height=70% }
 
+## Virtual Box
+
 ![(рис. 12. Успешное завершение установки и перезагрузка системы)](image/image12.png){ #fig:012 width=70% height=70% }
 
-### Переход в ОС Linux
+## Переход в ОС Linux
 
 ![(рис. 13. успешное создание пользователя)](image/image13.png){ #fig:013 width=70% height=70% }
+
+## Переход в ОС Linux
 
 ![(рис. 14. Подключение гостевых настроек)](image/image14.png){ #fig:014 width=70% height=70% }
 

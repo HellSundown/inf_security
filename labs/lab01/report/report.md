@@ -1,8 +1,9 @@
 ---
 ## Front matter
-title: "Отчёт по лабораторной работе №2"
+title: "Отчёт по лабораторной работе №1"
 subtitle: "Настройка рабочего пространства для лабораторных работ"
 author: "Выполнила: Павлова Полина Алексеевна, 
+
 
 НПИбд-02-21, 1032212967"
 
@@ -18,7 +19,6 @@ csl: pandoc/csl/gost-r-7-0-5-2008-numeric.csl
 toc: true # Table of contents
 toc-depth: 2
 lof: true # List of figures
-lot: true # List of tables
 fontsize: 12pt
 linestretch: 1.5
 papersize: a4
